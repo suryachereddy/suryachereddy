@@ -2,6 +2,8 @@ Hey there! I'm Surya Chereddy, a graduate student pursuing MS in Robotics and Au
 
 My interests: Robotics, Deep Learning, AI, Perception, UI/UX and anything that's "cool".
 
+Check out my projects, under the pinned section.
+
 _**Open to collaborations.**_
 
  
