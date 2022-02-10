@@ -1,6 +1,6 @@
 Hey there! I'm Surya Chereddy, a graduate student pursuing MS in Robotics and Autonoumous Systems at the Arizona State University. 
 
-My interests: Robotics, Deep Learning, AI, Perception, UI/UX and anything that's "cool".
+My interests: Robotics, Deep Learning, Reinforcement Learning, Imitation Learning, UI/UX and anything that's "cool".
 
 Check out my projects, under the pinned section.
 
