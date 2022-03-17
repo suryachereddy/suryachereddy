@@ -14,4 +14,7 @@ _**Open to collaborations.**_
 - Email from school : vcheredd@asu.edu
 - Linkedin : [@suryachereddy](https://linkedin.com/in/suryachereddy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryachereddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/?username=suryachereddy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryachereddy&layout=compact)
+
